@@ -1,0 +1,9 @@
+.terraform/
+terraform/
+*.tfstate*
+*.tfvars
+*.pem
+*.pub
+my-terra-key
+store.txt
+.env
